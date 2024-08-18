@@ -1,15 +1,15 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md
 
-[Page Social.Wiki.Home]:link
+[Page Social.Wiki.Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections
 
-[Page Project Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Project/Project_Home.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/Changes_Home.md
 
-[Sec Welcome]:link
-[Sec Tech]:link
-[Sec Feat Added]:link
-[Sec Feat Planned]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md#welcome-to-realms-core
+[Sec Tech]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md#technical-data
+[Sec Feat Added]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md#key-implimented-features
+[Sec Feat Planned]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md#key-planned-features
 
 # Realms Tutorial Collections: "Realms Core"
 
