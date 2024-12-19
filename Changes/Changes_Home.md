@@ -1,36 +1,36 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/Changes_Home.md
 
 [Page Home]:link
 [Page Proj Home]:link
 [Page Sys Home]:link
 [Page Learn Home]:link
 
-[Page Changes V1]:link
-[Page Changes V2]:link
-[Page Changes V3]:link
-[Page Changes V4]:link
-[Page Changes V5]:link
-[Page Changes V6]:link
-[Page Changes V7]:link
-[Page Changes V8]:link
-[Page Changes V9]:link
-[Page Changes V10]:link
-[Page Changes V11]:link
-[Page Changes V12]:link
-[Page Changes V13]:link
-[Page Changes V14]:link
-[Page Changes V15]:link
-[Page Changes V16]:link
-[Page Changes V17]:link
-[Page Changes V18]:link
-[Page Changes V19]:link
-[Page Changes V20]:link
-[Page Changes V21]:link
-[Page Changes V22]:link
-[Page Changes V23]:link
-[Page Changes V24]:link
-[Page Changes V25]:link
-[Page Changes V26]:link
+[Page Changes V1]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.1.0.md
+[Page Changes V2]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.2.0.md
+[Page Changes V3]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.3.0.md
+[Page Changes V4]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.4.0.md
+[Page Changes V5]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.5.0.md
+[Page Changes V6]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.6.0.md
+[Page Changes V7]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.7.0.md
+[Page Changes V8]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.8.0.md
+[Page Changes V9]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.9.0.md
+[Page Changes V10]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.10.0.md
+[Page Changes V11]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.11.0.md
+[Page Changes V12]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.12.0.md
+[Page Changes V13]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.13.0.md
+[Page Changes V14]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.14.0.md
+[Page Changes V15]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.15.0.md
+[Page Changes V16]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.16.0.md
+[Page Changes V17]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.17.0.md
+[Page Changes V18]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.18.0.md
+[Page Changes V19]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.19.0.md
+[Page Changes V20]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.10.0.md
+[Page Changes V21]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.21.0.md
+[Page Changes V22]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.22.0.md
+[Page Changes V23]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.23.0.md
+[Page Changes V24]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.24.0.md
+[Page Changes V25]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.25.0.md
+[Page Changes V26]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.26.0.md
 
 [Sec ReleaseBoard]:[page]#latest-releases-board
 
@@ -74,7 +74,7 @@ Welcome to the Change log section of the Tutorial Collection for Realms Core.
 		- [V D 0.0.21.0][Page Changes V21]
 		- [V D 0.0.22.0][Page Changes V22]
 		- [V D 0.0.23.0][Page Changes V23]
-		- [V D 0.0.24.0][Page Changes V34]
+		- [V D 0.0.24.0][Page Changes V24]
 		- [V D 0.0.25.0][Page Changes V25]
 		- [V D 0.0.26.0][Page Changes V26]
 		

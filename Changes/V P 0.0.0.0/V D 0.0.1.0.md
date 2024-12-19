@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Changes/V%20P%200.0.0.0/V%20D%200.0.1.0.md
 
 [Page Home]:link
 [Page Proj Home]:link
@@ -77,6 +77,7 @@ The following is a list of the new systems along with the number of starting fea
 - New Systems
 	- [Library Host][Sys LibHost]
 		- Features
+			- [Library Build Assembly][Sys LibHost Feat Build]
 			- [Subsystems Automated Assembly][Sys LibHost SubsysBuild]
 	- [Binary Memory][Sys Memory]
 		- Features

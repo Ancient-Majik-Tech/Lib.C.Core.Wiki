@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Learn/Learn_Home.md
 
 [Page Home]:link
 [Page Project Home]:link

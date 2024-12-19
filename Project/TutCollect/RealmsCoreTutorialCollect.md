@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/Project/TutCollect/RealmsCoreTutorialCollect.md
 
 [Page Home]:link
 [Page Learn Home]:link

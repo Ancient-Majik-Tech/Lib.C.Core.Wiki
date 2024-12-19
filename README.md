@@ -21,6 +21,7 @@ Welcome to the main page for the [Realms Tutorial Collections][Page Social.Wiki.
 	- [Project][Page Project Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
+	
 
 ## Page Index
 
@@ -50,7 +51,7 @@ Our own implimentation of C# but with less technical based words for more inform
 		- Realms OS (Planned, OS not started)
 		- IOS, IPhones  (Never)
 	- Valid OS Word Sizes
-		- 64 (If ones hire are around may support with interest)
+		- 64 (If ones higher are around may support with interest)
 	- Build Framework
 		- MinGW (x86_64)
 
