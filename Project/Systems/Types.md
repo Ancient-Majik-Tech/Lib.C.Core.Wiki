@@ -36,9 +36,9 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 	- Name:
 	- SystemID:
 	- IDPiece:
-	- Version:
-	- Implimented Version: [Project Version Added]
-	- Last Changed: [Last Changed Project Version]
+	- Version: V 0.12.0
+	- Implimented Version: V D 0.0.6.0
+	- Last Changed: V D 0.0.26.0
 	- Tags
 
 [System Desc]
@@ -47,7 +47,18 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 
 - Features
 
-### [Feature Name] Feature
+### Type Tri-plex Feature
+
+This feature provides one object to be used to pass types around smoothly between the levels.
+
+- Details
+	- Status: Active
+	- Version: V 1.0
+	- FeatureID: Types.TypeTriPlexFeat
+	- Impliment System Version: V 0.12.0
+	- Last Change V 0.12.0
+
+### [] Feature
 
 [Feature Desc]
 

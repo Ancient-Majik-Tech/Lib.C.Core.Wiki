@@ -49,6 +49,15 @@
 
 - Unsorted Plans
 
+### Development Plans
+
+- Changes
+	- Update with Hotswapping
+	- Update with Realms OOP and Raw and Primitive C type systems
+	- Update with new Primitive level
+	- Update system to use OOPObject 
+	
+
 
 ### Version Plans
 

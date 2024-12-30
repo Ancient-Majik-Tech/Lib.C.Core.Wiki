@@ -48,6 +48,7 @@ Welcome to the Realms Core Library Object Host System's documentation page. This
 	- Last Changed: V D 0.0.26.0
 	- Tags
 		- Raw C
+		- Primitive C
 		- Realms OOP
 		- LibraryHost
 
@@ -68,7 +69,7 @@ This feature is used to automate the building of a namespace in Raw C to host al
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.BuildFeat
 	- Impliment System Version: V 0.1.0 
 	- Last Change V 0.5.0
@@ -79,7 +80,7 @@ This feature is used to automate the building of a namespace in Raw C to host al
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.InnerFeat
 	- Impliment System Version: V 0.1.0 
 	- Last Change V 0.5.0
@@ -90,7 +91,7 @@ This feature is used to automate the building of a namespace in Raw C to host al
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.PublicFeat
 	- Impliment System Version: V 0.1.0 
 	- Last Change V 0.5.0
@@ -101,7 +102,7 @@ This feature is used to automate the building of a namespace in Raw C to host al
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.BuildFeat
 	- Impliment System Version: V 0.1.0 
 	- Last Change V 0.5.0
@@ -112,7 +113,7 @@ This feature allows for cleaner code by predefining basic structures for public 
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.PublicPredefineFeat
 	- Impliment System Version: V 0.5.0 
 	- Last Change V 0.5.0
@@ -123,7 +124,7 @@ This feature is used predefine data stuructures used only internally withing the
 
 - Details
 	- Status: Active
-	- Version: V 1.0
+	- Version: V 2.0
 	- FeatureID: LibHost.InnerPredefineFeat
 	- Impliment System Version: V 0.5.0 
 	- Last Change V 0.5.0

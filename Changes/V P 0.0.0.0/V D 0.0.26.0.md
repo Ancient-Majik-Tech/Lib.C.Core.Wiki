@@ -68,6 +68,9 @@ The following is a list of the general project changes that happend durring this
 The following is a list of changes that effect the project handling.
 
 - Project Changes
+	- Project Changes
+		- Applied new documentation style using the three forms of IDS, ProjectID, SystemID and FeatureID
+		- Updated feature "data" objects to be documented with versioning for feature.
 	- Parent Handling
 	- Dependancies
 		- New
@@ -80,7 +83,8 @@ The following is a list of changes that effect the project handling.
 The following is a list of the new systems along with the number of starting features present at the time of adding the system.
 
 - New Systems
-	- [Raw and Primitive C Typed Objects][Sys RawC]
+	- [Raw and Primitive C Typed Objects][Sys COOP]
+		- Updated ID Piece from RawC to COOP
 
 
 ### Changed Systems

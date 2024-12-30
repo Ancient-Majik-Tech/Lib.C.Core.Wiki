@@ -34,16 +34,17 @@ Welcome to the Raw and Primitive C Typed Objects System's documentation page. Th
 
 - Details
 	- Name: Raw and Primitive C Typed Objects
-	- SystemID: LibCore.RawC
-	- IDPiece: RawC
-	- Version: V 0.2.0
+	- SystemID: LibCore.COOP
+	- IDPiece: COOP
+	- Version: V 0.3.0
 	- Implimented Version: V D 0.0.26.0
 	- Last Changed: V D 0.0.26.0
 	- Tags
 		- [CodeLanguage: C]
-		- [OOP: RawC]
-		- [OOP: Primitive]
+		- [OOP: RawC][SysTag RawC]
+		- [OOP: Primitive][SysTag PrimC]
 		- [OOP: HotSwapEnabled]
+		- Subsystem Builder:{ Parent:LibHost }
 
 This specialized system provides two step typed handling. The first being Primitive C Data Type (PrimBool,PrimUInt64). The second being Raw C Object Types which are a parented based structured object with a function pointers to allow OOP style calling. Both expect to be manual released. Please do keep this in mind.
 
@@ -57,10 +58,10 @@ This feature provides the ability to contruct primitive data based on data defin
 
 - Details
 	- Status: Active
-	- Version: V 1.0
-	- FeatureID: RawC.Primitive
+	- Version: V 2.0
+	- FeatureID: COOP.PrimitiveFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Raw C Type Object Feature
 
@@ -68,10 +69,10 @@ This feature provides a simple class designed to help with working with Raw C ob
 
 - Details
 	- Status: Active
-	- Version: V 1.0
-	- FeatureID: RawC.Type
+	- Version: V 2.0
+	- FeatureID: COOP.TypeFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Raw C Object Management Feature
 
@@ -79,10 +80,10 @@ This feature provides the system with the ability to handle the [Create, Destroy
 
 - Details
 	- Status: Active
-	- Version: V 1.0
-	- FeatureID: RawC.ObjManageData
+	- Version: V 2.0
+	- FeatureID: COOP.ObjManageDataFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Raw C Type Info Feature
 
@@ -91,9 +92,9 @@ This feature the system a way to store type data that can be easily handled and 
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.TypeInfoFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Type Registration Feature
 
@@ -102,9 +103,9 @@ This feature allows users to register Raw and Primitive C Object types to be abl
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.RegisterFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Type Data Control Registration Feature
 
@@ -113,9 +114,9 @@ This feature provides a way to register the details to help automate the creatio
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.TypeDataControlFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### New Object Creation Feature
 
@@ -124,9 +125,9 @@ This feature feature is used to create a new object, Base and primitive based ha
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.NewFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 ### Base Object Creation Handling Feature
 
@@ -135,9 +136,9 @@ This feature provides quick object base handling while working in Raw C and work
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.BaseNewFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
 
 
 ### Primitive Object Creation With Copy Feature
@@ -147,6 +148,28 @@ This feature automates primitive creation by handling the data memory allication
 - Details
 	- Status: Active
 	- Version: V 1.0
-	- FeatureID: RawC.TypeInfo
+	- FeatureID: COOP.PrimitiveObjFeat
 	- Impliment System Version: V 0.1.0
-	- Last Change: V 0.1.0
+	- Last Change: V 0.3.0
+
+### Primitive and Raw C Type Assembly Feature
+
+This feature internally is used to build up the libraries primtive and Raw C Types.
+
+- Details
+	- Status: Active
+	- Version: V 1.0
+	- FeatureID: COOP.AssemblyFeat
+	- Impliment System Version: V 0.1.0
+	- Last Change: V 0.3.0
+
+### Type Info Array Feature
+
+This feature builds up types slowly and updates itself to use new forms of type info arrays. going from pointers to individual objects arrays. Allowing it to make use of its own types as it grows. High chance to get complex.
+
+- Details
+	- Status: Active
+	- Version: V 1.0
+	- FeatureID: COOP.ArrayedTypeInfoFeat
+	- Impliment System Version: V 0.1.0
+	- Last Change: V 0.3.0
